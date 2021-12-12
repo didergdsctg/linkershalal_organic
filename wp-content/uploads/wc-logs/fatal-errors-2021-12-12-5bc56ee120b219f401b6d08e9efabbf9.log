@@ -1,0 +1,2 @@
+2021-12-12T03:44:13+00:00 CRITICAL Out of memory (allocated 45088768) (tried to allocate 69632 bytes) in /opt/lampp/htdocs/linkershalal_organic/wp-includes/functions.php on line 624
+
